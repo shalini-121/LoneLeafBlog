@@ -11,35 +11,22 @@ Users can register, log in, create posts, edit posts, delete posts and view post
 - 📱 Responsive UI  
 
 ## 📂 Project Structure
-
+```
 flask_blog/
-
 │── venv/ # Virtual environment
-
 │── app.py # Main Flask app
-
 │── models.py # Database models
-
 │── forms.py # Flask-WTF forms
-
 │── templates/ # HTML templates
-
 │ ├── base.html
-
 │ ├── index.html
-
 │ ├── login.html
-
 │ ├── register.html
-
 │ ├── new_post.html
-
 │ ├── post.html
-
 │── static/ # Static files
-
 │ ├── style.css
-
+```
 ## ⚙️ Installation & Setup
 
 1. **Clone the repository**
